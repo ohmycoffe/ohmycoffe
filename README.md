@@ -9,4 +9,4 @@ This is my personal repository where I store my personal projects including caps
 - 🐈 Cat lover
 - ⚡ Clean energy enthusiast
 - 📗 Firm believer in the practical application of theory
-- 📫 Send me an [email](ohmycoffe1@gmail.com)
+- 📫 Send me an <a href="mailto:ohmycoffe1@gmail.com"/>email</a>
